@@ -54,7 +54,7 @@ A WordCloud is a visual representation of words where the size of each word corr
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
 </p>
 
-### Word Cloud des titres clickbait 
+### Word Cloud of Clickbait Titles
 <p align="center">
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
 </p>
