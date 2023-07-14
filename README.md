@@ -48,7 +48,8 @@ When we discuss human language, there are multiple ways to express the same thin
 
 ## EDA: Exploratory Data Analysis
 
-Before constructing classification models, we perform exploratory data analysis (EDA). This step includes exploring descriptive statistics, visualizing the data, and identifying trends or patterns in the dataset.
+Before running the models, we analyzed the word frequencies of clickbait titles and non-clickbait titles. There were clear distinctions in the vocabulary as well as overlaps, as shown in the WordClouds below.
+A WordCloud is a visual representation of words where the size of each word corresponds to its frequency or importance.
 
 ## Feature Extraction
 
