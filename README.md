@@ -59,6 +59,13 @@ A WordCloud is a visual representation of words where the size of each word corr
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
 </p>
 
+### Word Cloud of Non-Clickbait Titles
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/31550f8e-0f10-446f-ac83-46c7b313537f" alt="schema">
+</p>
+
+
+
 ## Feature Extraction
 
 In this section, we explore different feature extraction methods to represent clickbait titles. We discuss the use of techniques such as TF-IDF, word embeddings, and other text-specific features to capture relevant information for classification.
