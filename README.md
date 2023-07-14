@@ -16,8 +16,8 @@ Our initial goal was to discover and understand these techniques to proceed with
 
 ## Table of Contents
 
-- [Introduction](#text-classification:)
-- [Text Classification](#The-proposed-model-for-clickbait-classification:)
+- [text-classification](#text-classification:)
+- [The-proposed-model-for-clickbait-classification](#The-proposed-model-for-clickbait-classification:)
 - [Text Preprocessing Techniques](#text-preprocessing-techniques)
 - [EDA: Exploratory Data Analysis](#eda-exploratory-data-analysis)
 - [Feature Extraction](#feature-extraction)
