@@ -33,7 +33,7 @@ For example, news articles can be organized by topics, support tickets can be or
 
 ## the-proposed-model-for-clickbait-classification
 <p align="center">
-  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/6563a202-25d3-4403-8e1c-bfc736739085" alt="schema">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/5f3d60ca-f3ee-4add-830b-622da9b11d0d" alt="schema">
 </p>
 
 ## Text Preprocessing Techniques
