@@ -76,16 +76,40 @@ This graph is easy to interpret. It shows that words like "dinner" and "mani" ar
 
 
 ## Feature Extraction
+We have added three columns to our dataframe: bias, bait, and normal.
+bait: indicates the number of occurrences of a word in clickbait titles
+normal: indicates the number of occurrences of a word in non-clickbait titles
+bias: a bias with a value of 1 for all titles
 
-In this section, we explore different feature extraction methods to represent clickbait titles. We discuss the use of techniques such as TF-IDF, word embeddings, and other text-specific features to capture relevant information for classification.
+#### The dataframe becomes:
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c72bd487-6441-4f1f-9ef0-244f5a6fd3d4" alt="schema">
+</p>
 
 ## Training Different Classification Models
 
 We train several commonly used classification models, such as Naive Bayes classifiers, Support Vector Machines (SVMs), and neural networks. We detail the training, evaluation, and optimization steps for each model.
 
+We have divided our dataset as follows:
+
+Train set: 80%
+Test set: 20%
+
 ## Comparison of Classification Models
 
 In this part, we compare the performance of different classification models using metrics such as accuracy, recall, and F1-score. We discuss the advantages and disadvantages of each approach and identify the best model for clickbait title classification.
+
+### Without cross-validation
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/a502078e-0ede-4ea6-a107-da69aac6dfa5" alt="schema">
+</p>
+
+### With cross-validation
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/ab1e5e69-c57f-44bb-84dc-f4c1229b8716" alt="schema">
+</p>
+
+We can see that the results obtained with cross-validation are better.
 
 ## Conclusion
 
