@@ -1,5 +1,3 @@
-# the-classification-of-CLICKBAIT
-The implementation of machine learning approaches for CLICKBAIT classification problem
 # CLICKBAIT Classification - Implementation of Machine Learning Approaches
 
 This project aims to implement different machine learning approaches for clickbait title classification. The main objective is to analyze and process the dataset, followed by comparing various learning algorithms to create the best classification model.
