@@ -71,6 +71,8 @@ In our objective of clickbait title classification, we have defined a dictionary
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/a6395d52-e10c-49c7-be7b-c229cec495c2" alt="schema">
 </p>
 
+This graph is easy to interpret. It shows that words like "dinner" and "mani" are clickbait words, while the word "dropout," for example, is a normal word
+
 
 
 ## Feature Extraction
