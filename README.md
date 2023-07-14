@@ -54,14 +54,21 @@ A WordCloud is a visual representation of words where the size of each word corr
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
 </p>
 
-### Word Cloud of Clickbait Titles
+#### Word Cloud of Clickbait Titles
 <p align="center">
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
 </p>
 
-### Word Cloud of Non-Clickbait Titles
+#### Word Cloud of Non-Clickbait Titles
 <p align="center">
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/31550f8e-0f10-446f-ac83-46c7b313537f" alt="schema">
+</p>
+
+### Building a word frequency dictionary
+
+In our objective of clickbait title classification, we have defined a dictionary in which we can search how many times a word appears in clickbait or non-clickbait titles. This will be very useful during the feature extraction from the dataset
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/a6395d52-e10c-49c7-be7b-c229cec495c2" alt="schema">
 </p>
 
 
