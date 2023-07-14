@@ -38,7 +38,9 @@ For example, news articles can be organized by topics, support tickets can be or
 
 ## Text Preprocessing Techniques
 
-Text preprocessing plays a vital role in text classification. We discuss commonly used techniques such as tokenization, stop word removal, lemmatization/stemming, and text normalization. These steps help clean and prepare the textual data before model training.
+Text preprocessing is a method used to clean textual data and prepare it for inputting into a model. Textual data contains noise in various forms, such as emotions, punctuation, and text in different cases.
+
+When we discuss human language, there are multiple ways to express the same thing, and this poses the main challenge we must confront because machines do not understand words. They require numerical representations, so we need to convert the text
 
 ## EDA: Exploratory Data Analysis
 
