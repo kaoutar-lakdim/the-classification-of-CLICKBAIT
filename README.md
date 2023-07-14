@@ -1,9 +1,6 @@
 # CLICKBAIT Classification - Implementation of Machine Learning Approaches
 
-![Project Image](C:/Users/aorus/Desktop/git_img/schema.jpeg)
-<p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/72691265/146637159-d0bba422-b977-4825-8c83-e653c1772f74.png"/>
-</p>
+![schema](https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c585d9a1-85e1-405c-86d4-cdc256586230)
 
 
 In the scope of our project, we focused on the classification of article titles as clickbait or non-clickbait by applying various machine learning algorithms. This project will result in a report and an oral presentation.
