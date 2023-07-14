@@ -2,6 +2,8 @@
 
 This project aims to implement different machine learning approaches for clickbait title classification. The main objective is to analyze and process the dataset, followed by comparing various learning algorithms to create the best classification model.
 
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
