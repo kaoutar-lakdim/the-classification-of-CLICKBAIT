@@ -32,8 +32,9 @@ Text classification is a machine learning technique that assigns a predefined se
 For example, news articles can be organized by topics, support tickets can be organized by urgency, chat conversations can be organized by language, brand mentions can be organized by sentiment, and so on. Text classification is one of the fundamental tasks in natural language processing with extensive applications such as sentiment analysis, topic labeling, spam detection, and intent detection.
 
 ## the-proposed-model-for-clickbait-classification
-
-This section explains the fundamental concepts of text classification and presents the different approaches used in this project. We cover techniques such as the bag-of-words model, language models, and recurrent neural networks (RNNs) for text classification.
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c585d9a1-85e1-405c-86d4-cdc256586230" alt="schema">
+</p>
 
 ## Text Preprocessing Techniques
 
