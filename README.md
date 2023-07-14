@@ -50,6 +50,9 @@ When we discuss human language, there are multiple ways to express the same thin
 ###  World Cloud :
 Before running the models, we analyzed the word frequencies of clickbait titles and non-clickbait titles. There were clear distinctions in the vocabulary as well as overlaps, as shown in the WordClouds below.
 A WordCloud is a visual representation of words where the size of each word corresponds to its frequency or importance.
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
+</p>
 
 ## Feature Extraction
 
