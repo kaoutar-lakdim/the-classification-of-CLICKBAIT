@@ -47,7 +47,7 @@ When we discuss human language, there are multiple ways to express the same thin
 </p>
 
 ## EDA: Exploratory Data Analysis
-####   World Cloud :
+###  World Cloud :
 Before running the models, we analyzed the word frequencies of clickbait titles and non-clickbait titles. There were clear distinctions in the vocabulary as well as overlaps, as shown in the WordClouds below.
 A WordCloud is a visual representation of words where the size of each word corresponds to its frequency or importance.
 
