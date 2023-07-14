@@ -1,6 +1,6 @@
 # CLICKBAIT Classification - Implementation of Machine Learning Approaches
 
-![Project Image](C:\Users\aorus\Downloads\WhatsApp Image 2023-07-14 at 21.29.28.jpeg)
+![Project Image](C:/Users/aorus/Downloads/WhatsApp Image 2023-07-14 at 21.29.28.jpeg)
 
 In the scope of our project, we focused on the classification of article titles as clickbait or non-clickbait by applying various machine learning algorithms. This project will result in a report and an oral presentation.
 
