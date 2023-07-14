@@ -25,12 +25,12 @@ Our initial goal was to discover and understand these techniques to proceed with
 - [Comparison of Classification Models](#comparison-of-classification-models)
 - [Conclusion](#conclusion)
 
-## Introduction
+## text-classification
 
 
 In this study, we explore the classification of clickbait titles using machine learning approaches. Clickbait refers to a style of title that aims to grab users' attention using sensationalist or misleading techniques. Our goal is to develop an efficient classification model that can distinguish clickbait titles from others.
 
-## Text Classification
+## the-proposed-model-for-clickbait-classification
 
 This section explains the fundamental concepts of text classification and presents the different approaches used in this project. We cover techniques such as the bag-of-words model, language models, and recurrent neural networks (RNNs) for text classification.
 
