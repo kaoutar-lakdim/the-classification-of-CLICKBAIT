@@ -27,8 +27,9 @@ Our initial goal was to discover and understand these techniques to proceed with
 
 ## text-classification
 
+Text classification is a machine learning technique that assigns a predefined set of categories to open text. Text classifiers can be used to organize, structure, and categorize almost any type of text, ranging from documents and medical studies to files and the web.
 
-In this study, we explore the classification of clickbait titles using machine learning approaches. Clickbait refers to a style of title that aims to grab users' attention using sensationalist or misleading techniques. Our goal is to develop an efficient classification model that can distinguish clickbait titles from others.
+For example, news articles can be organized by topics, support tickets can be organized by urgency, chat conversations can be organized by language, brand mentions can be organized by sentiment, and so on. Text classification is one of the fundamental tasks in natural language processing with extensive applications such as sentiment analysis, topic labeling, spam detection, and intent detection.
 
 ## the-proposed-model-for-clickbait-classification
 
