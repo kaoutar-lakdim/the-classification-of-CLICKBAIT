@@ -2,7 +2,7 @@
 
 ![Project Image](C:/Users/aorus/Desktop/git_img/schema.jpeg)
 <p align="center">
-  <img src="file:///C:/Users/aorus/Desktop/git_img/schema.jpeg" alt="Project Image">
+  <img align="center" src="https://user-images.githubusercontent.com/72691265/146637159-d0bba422-b977-4825-8c83-e653c1772f74.png"/>
 </p>
 
 
