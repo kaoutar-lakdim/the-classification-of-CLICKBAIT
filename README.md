@@ -16,8 +16,8 @@ Our initial goal was to discover and understand these techniques to proceed with
 
 ## Table of Contents
 
-- [text classification](#text-classification:)
-- [The proposed model for clickbait classification](#The-proposed-model-for-clickbait-classification:)
+- [Text Classification](#text-classification)
+- [The Proposed Model for Clickbait Classification](#the-proposed-model-for-clickbait-classification)
 - [Text Preprocessing Techniques](#text-preprocessing-techniques)
 - [EDA: Exploratory Data Analysis](#eda-exploratory-data-analysis)
 - [Feature Extraction](#feature-extraction)
@@ -26,6 +26,7 @@ Our initial goal was to discover and understand these techniques to proceed with
 - [Conclusion](#conclusion)
 
 ## Introduction
+
 
 In this study, we explore the classification of clickbait titles using machine learning approaches. Clickbait refers to a style of title that aims to grab users' attention using sensationalist or misleading techniques. Our goal is to develop an efficient classification model that can distinguish clickbait titles from others.
 
