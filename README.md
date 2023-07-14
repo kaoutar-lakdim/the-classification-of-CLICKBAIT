@@ -43,7 +43,7 @@ Text preprocessing is a method used to clean textual data and prepare it for inp
 When we discuss human language, there are multiple ways to express the same thing, and this poses the main challenge we must confront because machines do not understand words. They require numerical representations, so we need to convert the text
 
 <p align="center">
-  <img src="[https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/6563a202-25d3-4403-8e1c-bfc736739085](https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/91c0e44c-ede4-4b90-8fec-47b46126bf7c)" alt="schema">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/6563a202-25d3-4403-8e1c-bfc736739085](https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/91c0e44c-ede4-4b90-8fec-47b46126bf7c" alt="schema">
 </p>
 
 ## EDA: Exploratory Data Analysis
