@@ -1,8 +1,5 @@
 # CLICKBAIT Classification - Implementation of Machine Learning Approaches
-
 ![Project Image](C:/Users/aorus/Desktop/git_img/schema.jpeg)
-
-
 In the scope of our project, we focused on the classification of article titles as clickbait or non-clickbait by applying various machine learning algorithms. This project will result in a report and an oral presentation.
 
 Beyond learning to work collaboratively as a group, the objective was to expand our scientific and technological knowledge. As we discovered, machine learning combines computer science and mathematics. For our team, it was a complete exploration of text data preprocessing techniques.
