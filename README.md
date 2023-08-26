@@ -52,7 +52,7 @@ Before running the models, we analyzed the word frequencies of clickbait titles 
 A WordCloud is a visual representation of words where the size of each word corresponds to its frequency or importance.
 <p align="center">
   <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c53872b6-0742-4b77-acd4-261dcc9f1435" alt="schema">
-</p>
+</p> 
 
 #### Word Cloud of Clickbait Titles
 <p align="center">
